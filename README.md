@@ -15,5 +15,5 @@ https://oba618.github.io/FirstMakingGameProject/
 
 ## Members
 - oba618
-- Add your name here
+- Kisui19
 - Add your name here
