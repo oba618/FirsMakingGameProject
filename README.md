@@ -15,7 +15,7 @@ And do homeworks below.
 ### Day 2
 - Thank you for adding the name
 - Please Pull before each next Homework. (It would be a disaster if your changes conflict with other people's.)
-- Add contents to any file as you like. (Learn and output simple HTML in this assignment.)
+- Add contents to **index.html** as you like. (Learn and output simple HTML in this assignment.)
 - Commit and Push your changes.
 
 ### Day 3
