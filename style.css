@@ -1,0 +1,25 @@
+/* CSS is written here */
+body {
+    /* Set background color to black */
+    background-color: #000000;
+    /* Set text color to white (to be visible on a black background) */
+    color: #ffffff;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #ffcc00; /* Set heading color to yellow */
+}
+
+p {
+    font-size: 1.1em;
+}
+
+section {
+    border: 1px solid white; 
+    padding: 10px;
+    margin: 10px auto;
+}
