@@ -29,5 +29,5 @@ https://oba618.github.io/FirstMakingGameProject/
 ## Members
 - oba618
 - Kisui19
-- Add your name here
+- Redharlowti
 - N. Remina
